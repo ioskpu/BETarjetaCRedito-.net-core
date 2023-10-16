@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "yum0dVGUFafuHk5YdI1e5NJB1Gm9wfOB0WHFMsdl7J4=",
+  "Source": "BackendTarjeta",
+  "BasePath": "_content/BackendTarjeta",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
